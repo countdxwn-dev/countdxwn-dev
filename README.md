@@ -8,7 +8,7 @@
 
 ---
 
-### about me
+### About Me
 
 - gaming: **Minecraft**, **Rust**, **Roblox**, **Rocket League**
 - building things in **Skript**, **Java**, **Python**, **PowerShell**, and whatever else fits the job
@@ -17,8 +17,7 @@
 
 ---
 
-### tech
-
+### Experience
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -37,7 +36,7 @@
 
 ---
 
-### games
+### Games
 
 <div align="center">
 
@@ -50,7 +49,7 @@
 
 ---
 
-### stats
+### Stats
 
 <div align="center">
 
@@ -63,7 +62,7 @@
 
 ---
 
-### trophies
+### Trophies
 
 <div align="center">
 
