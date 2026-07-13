@@ -12,8 +12,6 @@
 
 - gaming: **Minecraft**, **Rust**, **Roblox**, **Rocket League**
 - building things in **Skript**, **Java**, **Python**, **PowerShell**, and whatever else fits the job
-- author of [**Screenshare-Tool**](https://github.com/countdxwn-dev/Screenshare-Tool) — a fast, read-only Minecraft cheat / bypass scanner
-- always learning, always shipping
 
 ---
 
